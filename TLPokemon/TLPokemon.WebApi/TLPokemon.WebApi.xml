@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TLPokemon.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:TLPokemon.WebApi.Controllers.PokemonController.GetPokemon(System.String,System.Threading.CancellationToken)">
+             <summary>
+            To retrieve basic pokemon details from the pokeApi
+             </summary>
+        </member>
+        <member name="M:TLPokemon.WebApi.Controllers.PokemonController.GetTransaltedPokemon(System.String,System.Threading.CancellationToken)">
+             <summary>
+            To retrieve basic pokemon details from the pokeApi with translated(Shakespear/Yoda) descriptions
+             </summary>
+        </member>
+    </members>
+</doc>
